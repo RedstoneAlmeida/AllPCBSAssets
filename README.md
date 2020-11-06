@@ -1,6 +1,6 @@
 # AllPCBSAssets
 
-
+```
 Name: Freezer 33 TR (Red)
 Asset: Prefabs/CoolingSystems/AirCoolers/Arctic/Arctic_Freezer_33_TR
 IconPath
@@ -6980,4 +6980,4 @@ Name: ExtraVision Gold Edition
 Asset: Prefabs/Peripherals/Monitors/Default/MON_Generic_Monitor_Gold
 IconPath
 toString: 
- 
+``` 
